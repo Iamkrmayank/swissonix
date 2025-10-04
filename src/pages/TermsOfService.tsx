@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export default function TermsOfService() {
-  const lastUpdated = "January 15, 2025";
+  const lastUpdated = "October 5, 2025";
 
   return (
     <div className="min-h-screen bg-white font-sans">
